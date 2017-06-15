@@ -16,3 +16,6 @@ $ nosetests
 $ pip install -e .
 $ python -m tests/test_hello
 ```
+
+# Notes
+* The following is a good read for packaging https://python-packaging.readthedocs.io/en/latest/index.html
